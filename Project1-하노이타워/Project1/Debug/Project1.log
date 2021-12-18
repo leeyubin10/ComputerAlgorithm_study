@@ -1,0 +1,3 @@
+﻿  Hanoi_template.cpp
+c:\users\이유빈\desktop\swu\2학년 2학기\컴퓨터알고리즘\컴퓨터알고리즘 과제\project1-하노이타워\project1\hanoi_template.cpp(27): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project1.vcxproj -> C:\Users\이유빈\Desktop\SWU\2학년 2학기\컴퓨터알고리즘\컴퓨터알고리즘 과제\Project1-하노이타워\Debug\Project1.exe

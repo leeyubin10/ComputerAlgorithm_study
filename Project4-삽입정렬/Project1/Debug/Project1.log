@@ -1,0 +1,4 @@
+﻿  insertion_sort.cpp
+c:\users\이유빈\desktop\swu\2학년 2학기\컴퓨터알고리즘\컴퓨터알고리즘 과제\project4-삽입정렬\project1\insertion_sort.cpp(17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\이유빈\desktop\swu\2학년 2학기\컴퓨터알고리즘\컴퓨터알고리즘 과제\project4-삽입정렬\project1\insertion_sort.cpp(34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project1.vcxproj -> C:\Users\이유빈\Desktop\SWU\2학년 2학기\컴퓨터알고리즘\컴퓨터알고리즘 과제\Project4-삽입정렬\Debug\Project1.exe
